@@ -1,0 +1,11 @@
+.headers {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  height: 100px;
+}
+
+.button {
+  height: 70px;
+  margin: 10px;
+}

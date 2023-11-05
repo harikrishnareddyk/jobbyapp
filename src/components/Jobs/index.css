@@ -1,0 +1,16 @@
+.profileEL {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
+  background-size: cover;
+  padding: 10px;
+  color: black;
+}
+
+.jobs-con {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  display: flex;
+}
